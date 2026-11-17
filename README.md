@@ -1,3 +1,9 @@
+Este é um projeto desenvolvido em React JS, para executar, é necessário ter o node.js instalado na máquina, e o VITE.
+
+Após instalar o projeto, use **npm install**, e **npm run dev.**
+
+https://github.com/orlandof781/portal-cursos.git
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
